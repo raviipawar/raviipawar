@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+
 
 # Hi there 👋, I'm Ravindra Pawar  
 
