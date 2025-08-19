@@ -65,9 +65,9 @@ I specialize in building scalable enterprise applications, integrating **GenAI s
 ---
 
 ## 📊 GitHub Stats
-![Ravindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gat786&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gat786&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gat786&theme=tokyonight)  
+![Ravindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=raviipawar&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raviipawar&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raviipawar&theme=tokyonight)  
 
 ---
 
@@ -79,7 +79,7 @@ I specialize in building scalable enterprise applications, integrating **GenAI s
 ---
 
 ## 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=gat786&color=blue&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=raviipawar&color=blue&style=flat)
 
 ---
 
